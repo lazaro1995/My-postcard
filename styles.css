@@ -2,11 +2,7 @@ body {
 	background: black;
 }
 
-* {
-	border: 1px dashed white;
-	min-height: 10px;
-	position: relative;
-}
+
 
 .postcard {
 	background: white;
